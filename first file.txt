@@ -2,3 +2,4 @@
 I've managed to install git!
 I've edited the file!
 Just to remind myself how to do it
+And to repeat one more time
